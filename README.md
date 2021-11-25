@@ -1,6 +1,7 @@
 # Bare Skeleton Create React App
 
 This is Create React App minus the test.js files, logo etc. 
+
 Just a blank white canvas to start on. Enjoy!
 
 
