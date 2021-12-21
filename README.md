@@ -1,12 +1,10 @@
-# Bare Skeleton Create React App
+# React To-Do App
 
-This is Create React App minus the test.js files, logo etc. 
+Quick & simple to-do app using React!
 
-Just a blank white canvas to start on. Enjoy!
+This project showcases three essential React Hooks,
 
-Favicon left in just bc it's ugly w/o unless replaced : )
-
-
+useState, useEffect & useRef!
 
 ## Available Scripts
 
