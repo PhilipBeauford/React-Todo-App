@@ -7,6 +7,8 @@ import Todo from './Todo'
 function TodoList() {
     const [todos, setTodos] = useState([])
 
+    
+
     const addTodo = (todo) => {
         if(!todo.text || /^\s*$/.test(todo.text)) {
             return
@@ -16,7 +18,6 @@ function TodoList() {
         setTodos(newTodos)
         console.log(todo, ...todos)
     }
-
 
 
     const updateTodo = (todoId, newValue) => {  //this is the edit icon behavior
